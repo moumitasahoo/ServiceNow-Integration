@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ServiceNo">e141cd2adb32b300456278b5ae9619cc</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ServiceNow Store Links</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_vamo_servicenow_servicenow_store_link</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_vamo_servicenow.servicenow_store_link_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Moumita</sys_created_by>
+        <sys_created_on>2019-07-25 06:49:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d41cd2adb32b300456278b5ae9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow Store Links</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ServiceNow Store Link" source="x_vamo_servicenow">2d0db826db32b300456278b5ae961988</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ServiceNow Store Link">2d0db826db32b300456278b5ae961988</sys_scope>
+        <sys_update_name>sys_app_module_6d41cd2adb32b300456278b5ae9619ce</sys_update_name>
+        <sys_updated_by>Moumita</sys_updated_by>
+        <sys_updated_on>2019-07-25 06:49:58</sys_updated_on>
+        <timeline_page/>
+        <title>ServiceNow Store Links</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

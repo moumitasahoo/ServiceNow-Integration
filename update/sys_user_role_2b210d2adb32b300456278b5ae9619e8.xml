@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_vamo_servicenow.servicenow_store_link_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>servicenow_store_link_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Moumita</sys_created_by>
+        <sys_created_on>2019-07-25 06:49:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2b210d2adb32b300456278b5ae9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_vamo_servicenow.servicenow_store_link_user</sys_name>
+        <sys_package display_value="ServiceNow Store Link" source="x_vamo_servicenow">2d0db826db32b300456278b5ae961988</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ServiceNow Store Link">2d0db826db32b300456278b5ae961988</sys_scope>
+        <sys_update_name>sys_user_role_2b210d2adb32b300456278b5ae9619e8</sys_update_name>
+        <sys_updated_by>Moumita</sys_updated_by>
+        <sys_updated_on>2019-07-25 06:49:46</sys_updated_on>
+    </sys_user_role>
+</record_update>
